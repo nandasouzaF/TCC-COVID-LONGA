@@ -1,4 +1,4 @@
-# Projeto TCC-COVID-LONGA
+# Trabalho de conclusão de Curso Covid Longa
 
 ### Objetivo do Projeto
 
@@ -11,11 +11,14 @@ O projeto engloba um formulário que requer autenticação através de login. De
 
 ## Analise de dados 
 
+
+### Dados
+Dados do DATASUS - SRAG 2021 a 2023:
+O conjunto de dados utilizado nesta pesquisa foi coletado do DATASUS - Ministério da Saúde, especificamente do Banco de Dados de Síndrome Respiratória Aguda Grave (SRAG) abrangendo os anos de 2021 a 2023. A SRAG é objeto de vigilância pelo Ministério da Saúde desde a pandemia de Influenza A(H1N1)pdm09, e posteriormente, a vigilância da COVID-19 foi incorporada nessa rede de monitoramento.
+
 ### Limpeza e Pré-processamento de Dados
 
-#### Dados Recolhidos do DATASUS
-
-Nesta seção, apresentamos o processo de limpeza e pré-processamento dos dados brutos da COVID-19 do DATASUS para os anos 2021, 2022 e 2023. Inicialmente, unimos os dados em um conjunto único e realizamos diversas etapas de pré-processamento para corrigir inconsistências e erros. Esse procedimento foi crucial para garantir a qualidade e confiabilidade das informações ao longo desses três anos.
+Nesta seção, apresentamos o processo de limpeza e pré-processamento dos dados brutos da COVID-19 do DATASUS para os anos 2021, 2022 e 2023. Inicialmente, unimos os dados em um conjunto único e realizamos diversas etapas de pré-processamento para corrigir inconsistências e erros. Esse procedimento foi crucial para garantir a qualidade e confiabilidade das informações ao longo desses três anos. 
 
 Durante a limpeza de dados, identificamos e corrigimos erros como valores ausentes, duplicados e inconsistências. Também padronizamos formatos e validamos informações para assegurar a integridade dos dados. Essa etapa foi essencial para garantir que os dados estivessem precisos e prontos para análise.
 
