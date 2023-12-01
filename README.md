@@ -1,6 +1,14 @@
 # Projeto TCC-COVID-LONGA
 
-Este projeto foi desenvolvido utilizando Flask e JavaScript, e inclui todas as suas rotas.
+### Objetivo do Projeto
+
+Este projeto foi desenvolvido com o propósito de oferecer informações pertinentes a pessoas que tenham enfrentado a COVID-19 e possam estar experimentando sintomas persistentes após a infecção, conhecidos como "COVID longa". A análise de dados baseada em conjuntos reais busca fornecer um formulário que possibilite referenciar esses dados, permitindo uma avaliação da probabilidade de um paciente apresentar sintomas associados à COVID longa.
+
+### Funcionalidades Principais
+
+O projeto engloba um formulário que requer autenticação através de login. Dentro deste formulário (teste), os pacientes podem inserir seus dados e relatar possíveis sintomas persistentes após a infecção. Ao concluir o teste, o paciente receberá uma avaliação da probabilidade de estar enfrentando sintomas relacionados à COVID longa. É importante ressaltar que esta avaliação serve como um indicativo e não substitui a consulta médica. Se houver indicação de sintomas persistentes, é altamente recomendável buscar orientação profissional médica.
+
+
 ## Analise de dados 
 
 ### Limpeza e Pré-processamento de Dados
