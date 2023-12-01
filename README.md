@@ -1,10 +1,11 @@
 # Projeto TCC-COVID-LONGA
 
 Este projeto foi desenvolvido utilizando Flask e JavaScript, e inclui todas as suas rotas.
+## Analise de dados 
 
-## Limpeza e Pré-processamento de Dados
+### Limpeza e Pré-processamento de Dados
 
-### Dados Recolhidos do DATASUS
+#### Dados Recolhidos do DATASUS
 
 Nesta seção, apresentamos o processo de limpeza e pré-processamento dos dados brutos da COVID-19 do DATASUS para os anos 2021, 2022 e 2023. Inicialmente, unimos os dados em um conjunto único e realizamos diversas etapas de pré-processamento para corrigir inconsistências e erros. Esse procedimento foi crucial para garantir a qualidade e confiabilidade das informações ao longo desses três anos.
 
